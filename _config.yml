@@ -6,7 +6,7 @@ description: Welcome to my website!
 baseurl: #the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Jenni
-city: Kolkata
+city: Southern
 state: CA
 
 # homepage tiles

@@ -1,7 +1,7 @@
 ---
 title: About
 layout: landing
-description: 'Wow. Maybe I do seem interesting after all.'
+description: ''
 image: assets/images/banner_1.jpg
 nav-menu: true
 ---
