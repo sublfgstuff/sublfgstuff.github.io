@@ -4,7 +4,7 @@ title: About Me
 landing-title: 'About Me'
 nav-menu: true
 description: Stuff about me, the person
-image: assets/images/Medow.jpg
+image: assets/images/Meadow.jpg
 author: null
 show_tile: true
 ---
